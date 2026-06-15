@@ -20,8 +20,13 @@ $\color{#7b2f45}{\text{ slight silksong act I spoilers + maaaaybe hk aswell}}$
 
   ##
   
-$\color{#0e2a56}{\text{ baz or machine}}$ $\color{#335c7a}{\text{ It / its pref }}$
-        <br>
+  $\color{#0e2a56}{\text{baz }}$ $\color{#133662}{\text{ or }}$ $\color{#183b68}{\text{ machine }}$ 　　    
+<br>
+
+$\color{#2f597c}{\text{ It }}$
+　　 $\color{#497f92}{\text{ / }}$ 
+　　    $\color{#7ba1ae}{\text{ its }}$
+     <br>
           <br>
       </td>
     </tr>
