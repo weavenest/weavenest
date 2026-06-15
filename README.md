@@ -1,7 +1,7 @@
 <div align="center">
 
   
-$\color{#7b2f45}{\text{ slight hollowknight spoilers }}$
+$\color{#7b2f45}{\text{ slight hollowknight spoilers (as in a single photo and a quote) }}$
   <br>
   <br>
 
