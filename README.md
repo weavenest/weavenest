@@ -1,11 +1,13 @@
 <div align="center">
-slight silksong act I spoilers + maaaaybe hk aswell
+
+  
+$\color{#7b2f45}{\text{ slight silksong act I spoilers + maaaaybe hk aswell}}$
   <br>
   <br>
 
   
 <details>
-  <summary><i> <sup>proceed at your own risk</sup> </i></summary>
+  <summary> <i> <sup> $\color{#975266}{\text{proceed at your own risk}}$ </sup> </i>   </summary>
 
 <br>
 <br>
