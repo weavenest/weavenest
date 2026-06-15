@@ -31,7 +31,7 @@ $\color{#2f597c}{\text{ It }}$
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=500&size=17&pause=1000&color=314866&center=true&width=435&lines=to+live+an+age+;yet+remember+so+little" alt="Typing SVG" /></a>
      <br>
           <br>
       </td>
