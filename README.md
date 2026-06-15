@@ -28,6 +28,10 @@ $\color{#2f597c}{\text{ It }}$
 　　    $\color{#7ba1ae}{\text{ its }}$
 
   $\color{#9aaeba}{\text{ if you }}$  $\color{#9fb1bd}{\text{like hk }}$ $\color{#c5bec9}{\text{ or silksong }}$ $\color{#ffd2db}{\text{ bmf bmf bmf }}$
+
+##
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
      <br>
           <br>
       </td>
