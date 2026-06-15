@@ -1,5 +1,5 @@
 <div align="center">
-silksong act I spoilers
+slight silksong act I spoilers
   <br>
   <br>
 
