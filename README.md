@@ -17,8 +17,10 @@ $\color{#7b2f45}{\text{ slight silksong act I spoilers + maaaaybe hk aswell}}$
         <br>
   <div align="center">
 <img width=300 src="https://file.garden/aZrZgVKh3wfTGmod/IMG_9156.png" alt="quirrel" > 
-        
-$\color{#7b2f45}{\text{ i'll work on this later}}$
+
+  ##
+  
+$\color{#0e2a56}{\text{ baz or machine}}$ $\color{#335c7a}{\text{ It / its pref }}$
         <br>
           <br>
       </td>
