@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+silksong act I spoilers
+  <br>
+  <br>
 
-<!--
-**weavenest/weavenest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<details>
+  <summary><b> <sup>proceed at your own risk</sup> </b></summary>
+  
+  ### Extra Details
+  Here is the hidden information! You can add paragraphs, lists, or even 
+  code blocks inside this section.
+</details>
