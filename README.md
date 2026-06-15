@@ -7,6 +7,6 @@ silksong act I spoilers
 <details>
   <summary><b> <sup>proceed at your own risk</sup> </b></summary>
   
- $\color{#FF000}{\text{hey}}$
+ $\color{#7b2f45}{\text{hey}}$
  
 </details>
