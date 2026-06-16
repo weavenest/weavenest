@@ -34,11 +34,15 @@ $\color{#2f597c}{\text{ It }}$
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=500&size=17&pause=1000&color=314866&center=true&width=435&lines=to+live+an+age+;yet+remember+so+little" alt="Typing SVG" /></a>
      <br>
           <br>
-      </td>
-    </tr>
+      </td> 
+    </tr> 
   </table>
 
 
 
- 
 </details>
+
+[atabook](https://pure-vessel.atabook.org/) [spacehey](https://spacehey.com/r0cketlauncher)
+
+ 
+
