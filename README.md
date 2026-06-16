@@ -42,7 +42,7 @@ $\color{#2f597c}{\text{ It }}$
 
 </details>
 
-[atabook](https://pure-vessel.atabook.org/)  $\color{#ffd2db}{\text{𝜗ৎ}}$  [spacehey](https://spacehey.com/r0cketlauncher)
+[atabook](https://pure-vessel.atabook.org/) &ensp;  $\color{#ffd2db}{\text{𝜗ৎ}}$  &ensp;[spacehey](https://spacehey.com/r0cketlauncher)
 
  
 
