@@ -14,8 +14,10 @@ ${\textsf{\color{#E75117} sebastian }}$ ${\textsf{\color{#D5E3D6} it }}$ ${\text
 </td>
 </tr>
 </table>
+<br>
+<img  width="80" height="100" src="https://file.garden/aZrZgVKh3wfTGmod/IMG_1559.png" alt= stamp >
 
-${\textsf{\color{#DB8E70} Subkit fans are on THIN ICE I have nothing against the ship you guys are just}}$
+${\textsf{\color{#DB8E70} Subkit fans are on THIN ICE (unless friends) I have nothing against the ship you guys are just}}$
 <br>
 ${\textsf{\color{#DB8E70}mischaracterizingtron 3000 }}$
 
