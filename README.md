@@ -18,3 +18,6 @@ ${\textsf{\color{#1e84c1} I never interact at all first unless for important-ish
 </td>
 </tr>
 </table>
+
+
+<img  width="200" height="330" src="https://file.garden/aZrZgVKh3wfTGmod/IMG_1557.png" alt= the_mikes_from_deltarune >
