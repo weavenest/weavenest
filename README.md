@@ -20,9 +20,9 @@ ${\textsf{\color{#E75117} sebastian }}$ ${\textsf{\color{#D5E3D6} it }}$ ${\text
 
 ${\textsf{\color{#4D6746} basic dni crit i Block/hide freely }}$
 
-${\textsf{\color{#85A891} Subkit fans are on THIN ICE (unless friends) I have nothing against }}$
+${\textsf{\color{#85A891} Subkit fans iwc I have nothing against }}$
 <br>
-${\textsf{\color{#85A891} the ship you guys are just mischaracterizingtron 3000 }}$
+${\textsf{\color{#85A891} the ship but some of you are just mischaracterizingtron 3000 }}$
 
 ##
 
