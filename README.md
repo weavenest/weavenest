@@ -18,6 +18,7 @@ ${\textsf{\color{#E75117} sebastian }}$ ${\textsf{\color{#D5E3D6} it }}$ ${\text
 
 <img  width="130" height="230" src="https://file.garden/aZrZgVKh3wfTGmod/IMG_1557.png" alt= pre-subspace_with_pre-medkit >
 
+${\textsf{\color{#DB8E70} basic dni crit i Block/hide freely }}$
 
 ${\textsf{\color{#DB8E70} Subkit fans are on THIN ICE (unless friends) I have nothing against }}$
 <br>
