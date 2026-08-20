@@ -23,3 +23,6 @@ ${\textsf{\color{#DB8E70} Subkit fans are on THIN ICE (unless friends) I have no
 <br>
 ${\textsf{\color{#DB8E70} the ship you guys are just mischaracterizingtron 3000 }}$
 
+<img  width="800" height="500" src="https://file.garden/aZrZgVKh3wfTGmod/IMG_1561.png" alt= pre-subspace_with_pre-medkit >
+
+
