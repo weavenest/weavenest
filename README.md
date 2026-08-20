@@ -9,11 +9,7 @@
   
 <br>
   
-${\textsf{\color{#E75117} sebastian }}$ ${\textsf{\color{#D5E3D6} it }}$ ${\textsf{\color{#D5E3D6} × }}$ any   
-<br>
-${\textsf{\color{#1e84c1} I never interact at all first unless for important-ish stuff }}$
-
-
+${\textsf{\color{#E75117} sebastian }}$ ${\textsf{\color{#D5E3D6} it }}$ ${\textsf{\color{#68B581} × }}$ ${\textsf{\color{#D5E3D6} any }}$
 <br>
 </td>
 </tr>
