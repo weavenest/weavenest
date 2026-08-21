@@ -23,6 +23,15 @@ ${\textsf{\color{#4D6746} basic dni crit i Block/hide freely }}$
 ${\textsf{\color{#85A891} Subkit fans iwc I have nothing against }}$
 <br>
 ${\textsf{\color{#85A891} the ship but some of you are just mischaracterizingtron 3000 }}$
+<br>
+<br>
+<details>
+  <summary> ${\textsf{\color{#E75117} losers }}$ </summary>
+  <a href="https://github.com/echoing-777s">Zaph</a> &nbsp; <a href="https://github.com/putmetorestimnotyourstosave">jay</a> &nbsp; <a href="https://github.com/dr-vanta">vanta</a> &nbsp; <a href="https://github.com/star-employee">Zixuan</a> 
+  <br>
+${\textsf{\color{#E75117}  your all amazing people, thank you for sharing your time with me :-) }}$
+  </p>
+</details>
 
 ##
 
